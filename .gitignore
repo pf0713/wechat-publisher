@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+推文配图/
+推文_*.md
+推文_*.html
+*.png
+*.jpg
+.claude/
